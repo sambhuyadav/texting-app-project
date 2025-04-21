@@ -60,8 +60,9 @@ TEXTAPP/
 ## 📸 Screenshots
 
 ### 🟢 Login Screen
-![Login Screen](./screenshots/login-screen.png)
-![Uploading Screenshot 2025-04-22 at 1.30.12 AM.png…]()
+![Login Screen](<img width="944" alt="Screenshot 2025-04-22 at 1 30 12 AM" src="https://github.com/user-attachments/assets/076e2469-82f6-4d55-8c44-e3f6683cff3d" />)
+
+
 
 ---
 
