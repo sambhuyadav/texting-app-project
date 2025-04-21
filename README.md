@@ -1,4 +1,4 @@
-# 📱 TextApp
+# 📱 [TextApp](https://texting-app-1cqr.onrender.com/login)
 
 A real-time texting application built with **React.js** and **DaisyUI** for the frontend, **Node.js**, **Express**, and **Socket.IO** for the backend, and **MongoDB** for data persistence.
 
@@ -48,3 +48,55 @@ TEXTAPP/
 ├── .gitignore
 ├── package.json
 └── README.md
+
+
+## 🚀 Features
+
+- 🧑‍🤝‍🧑 User Authentication (Login & Signup)
+- 💬 Real-time Messaging
+- 📁 Organized Chat Interface
+- 🎨 Clean and Responsive UI
+
+## 📸 Screenshots
+
+### 🟢 Login Screen
+![Login Screen](./screenshots/login-screen.png)
+
+---
+
+### 🟣 Sign Up Screen
+![Sign Up Screen](./screenshots/signup-screen.png)
+
+---
+
+### 💬 Chat Interface
+![Chat Screen](./screenshots/chat-screen.png)
+
+---
+
+### ✅ Selected Chat
+![Chat Selected](./screenshots/chat-selected.png)
+
+---
+
+### 📨 Message View
+![Chat Message](./screenshots/chat-message.png)
+
+---
+
+## 🛠 Tech Stack
+
+- **Frontend:** React, Tailwind CSS
+- **Backend:** Node.js, Express
+- **Database:** MongoDB
+- **Authentication:** JWT
+- **Real-time Communication:** Socket.IO
+
+## 🧑‍💻 Getting Started
+
+Clone the repository and install dependencies:
+
+```bash
+git clone https://github.com/your-username/chatapp.git
+cd chatapp
+npm install
