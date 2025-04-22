@@ -2,7 +2,22 @@
 A real-time texting application built with **React.js** and **DaisyUI** for the frontend, **Node.js**, **Express**, and **Socket.IO** for the backend, and **MongoDB** for data persistence.
 
 ---
+## 🔧 Tech Stack
 
+### 🖥️ Frontend
+- [React.js](https://reactjs.org/)
+- [DaisyUI](https://daisyui.com/) (Tailwind CSS Components)
+- [Vite](https://vitejs.dev/) for fast development
+- [Socket.IO Client](https://socket.io/)
+
+### 🔙 Backend
+- [Node.js](https://nodejs.org/)
+- [Express.js](https://expressjs.com/)
+- [Socket.IO](https://socket.io/) for real-time communication
+- [MongoDB](https://www.mongodb.com/) for database
+- JWT for authentication
+
+---
 
 <img width="1278" alt="Screenshot 2025-04-22 at 4 09 54 PM" src="https://github.com/user-attachments/assets/d7cb8f9a-48b9-4dca-b13b-69eaf6e0cd24" />
 
