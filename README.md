@@ -59,30 +59,24 @@ TEXTAPP/
 ## 📸 Screenshots
 
 ### 🟢 Login Screen
-![Login Screen](https://github.com/user-attachments/assets/076e2469-82f6-4d55-8c44-e3f6683cff3d)
-
-
-
+<img width="1278" alt="Screenshot 2025-04-22 at 4 09 54 PM" src="https://github.com/user-attachments/assets/45e76223-8e20-47f8-a9b4-123efa07db49" />
 
 ---
 
 ### 🟣 Sign Up Screen
-![Sign Up Screen](./screenshots/signup-screen.png)
+<img width="1275" alt="Screenshot 2025-04-22 at 4 13 07 PM" src="https://github.com/user-attachments/assets/7ab43b89-4d85-4347-b61d-76e6233fdf09" />
+
 
 ---
 
 ### 💬 Chat Interface
-![Chat Screen](./screenshots/chat-screen.png)
+<img width="1280" alt="Screenshot 2025-04-22 at 4 10 46 PM" src="https://github.com/user-attachments/assets/71339b20-8aa5-4563-84b1-ee52a4102e5e" />
+
 
 ---
 
-### ✅ Selected Chat
-![Chat Selected](./screenshots/chat-selected.png)
-
----
-
-### 📨 Message View
-![Chat Message](./screenshots/chat-message.png)
+### ✅ Selected Chat & Message View
+<img width="1276" alt="Screenshot 2025-04-22 at 4 12 56 PM" src="https://github.com/user-attachments/assets/ed1c9e29-7c49-40a3-8a02-c3874ec60962" />
 
 ---
 
