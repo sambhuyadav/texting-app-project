@@ -58,9 +58,8 @@ TEXTAPP/
 
 ## 📸 Screenshots
 
-
 ### 🟢 Login Screen
-<img width="1275" alt="Login Screen" src="https://github.com/user-attachments/assets/076e2469-82f6-4d55-8c44-e3f6683cff3d" />
+![Login Screen](https://github.com/user-attachments/assets/076e2469-82f6-4d55-8c44-e3f6683cff3d)
 
 
 
