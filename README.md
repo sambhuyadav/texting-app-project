@@ -34,3 +34,11 @@ A real-time texting application built with **React.js** and **DaisyUI** for the 
 <img width="1276" alt="Screenshot 2025-04-22 at 4 12 56 PM" src="https://github.com/user-attachments/assets/46f55bd6-2adb-4ae7-92af-d7bb4e5f6be5" />
 
 
+---
+
+
+**Made by Shambhu**  
+📧 Contact: [shambhuyadav_@outlook.com](mailto:shambhuyadav_@outlook.com)
+
+---
+
