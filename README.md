@@ -59,7 +59,7 @@ TEXTAPP/
 ## 📸 Screenshots
 
 ### 🟢 Login Screen
-<img width="1278" alt="Screenshot 2025-04-22 at 4 09 54 PM" src="https://github.com/user-attachments/assets/45e76223-8e20-47f8-a9b4-123efa07db49" />
+<img width="1278" alt="Image" src="https://github.com/user-attachments/assets/3e111d50-e7b0-41d4-8a58-87ae1a0fc5e9" />
 
 ---
 
