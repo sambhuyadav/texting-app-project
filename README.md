@@ -1,5 +1,5 @@
 # 📱 [TextApp](https://texting-app-1cqr.onrender.com/login)
-https://texting-app-1cqr.onrender.com/login
+https://texting-app-1cqr.onrender.com
 A real-time texting application built with **React.js** and **DaisyUI** for the frontend, **Node.js**, **Express**, and **Socket.IO** for the backend, and **MongoDB** for data persistence.
 
 ---
